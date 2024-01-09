@@ -164,3 +164,4 @@ cython_debug/
 #.idea/
 
 api_key.txt
+tavily_api_key.txt
